@@ -5,7 +5,7 @@ Only those who subscribe [on Patreon](patreon.com/karl_zylinski) and select a ti
 These repositories are only for educational purposes. I will not be accepting any pull requests and similar.
 
 ## Completed games
-[CAT & ONION](https://github.com/karl-zylinski/cat-game) | Shipped on [Steam](https://store.steampowered.com/app/2781210/CAT__ONION/) and [itch](https://zylinski.itch.io/cat-and-onion)
+[CAT & ONION](https://github.com/karl-zylinski-subscribers/cat-and-onion) | Shipped on [Steam](https://store.steampowered.com/app/2781210/CAT__ONION/) and [itch](https://zylinski.itch.io/cat-and-onion)
 
 ## In-progress games
 [Top-down adventure game](https://github.com/karl-zylinski-subscribers/adventure)
