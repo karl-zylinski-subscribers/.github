@@ -13,3 +13,6 @@ These repositories are only for educational purposes. I will not be accepting an
 ## On hiatus
 [Train game](https://github.com/karl-zylinski-subscribers/trains)
 
+## Free things
+
+[Odin + Raylib + Hot Reload template](https://github.com/karl-zylinski/odin-raylib-hot-reload-game-template)
