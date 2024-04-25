@@ -10,7 +10,7 @@ These repositories are only for educational purposes. I will not be accepting an
 ## In-progress games
 [Top-down adventure game](https://github.com/karl-zylinski-subscribers/adventure)
 
-## On hiatus
+## On hiatus / prototypes that never got anywhere
 [Train game](https://github.com/karl-zylinski-subscribers/trains)
 
 ## Free things
