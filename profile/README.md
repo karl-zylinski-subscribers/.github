@@ -1,6 +1,6 @@
 # Hi there! This organization holds the source code for my shipped and in-progress games.
 
-Only those who subscribe [on Patreon](patreon.com/karl_zylinski) and select a tier with source code access has access to the repositories. Many thanks for your support!
+Only those who subscribe [on Patreon](http://patreon.com/karl_zylinski) and select a tier with source code access has access to the repositories. Many thanks for your support!
 
 These repositories are only for educational purposes, you may copy short snippets and draw inspiration from the code, but you may not spread the code in any substatinal way. The projects under "Free things" are exceptions to this, those are open source.
 
