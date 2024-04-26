@@ -16,3 +16,5 @@ These repositories are only for educational purposes, you may copy short snippet
 ## Free things
 
 [Odin + Raylib + Hot Reload template](https://github.com/karl-zylinski/odin-raylib-hot-reload-game-template) >>> *This template was spawned out of working on [Train game](https://github.com/karl-zylinski-subscribers/trains) and trying to create a more structured foundation that [CAT & ONION](https://github.com/karl-zylinski-subscribers/cat-and-onion) had. It was used as the basis for [Top-down adventure game](https://github.com/karl-zylinski-subscribers/adventure)*
+
+[Patreon->GitHub invite](https://github.com/karl-zylinski/patreon-github-invite) >>> *The program that invited you here. It uses Patreon API to get a list of patrons and then uses GitHub API to invite them to this organization.*
